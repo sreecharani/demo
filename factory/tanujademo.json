@@ -1,0 +1,9 @@
+{
+	"name": "tanujademo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "22c4b67b-1f6e-48e8-b247-0675fc0e875b",
+		"tenantId": "93f33571-550f-43cf-b09f-cd331338d086"
+	}
+}

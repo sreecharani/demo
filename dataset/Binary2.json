@@ -1,8 +1,8 @@
 {
-	"name": "Binary1",
+	"name": "Binary2",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "input",
+			"referenceName": "output",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
@@ -10,9 +10,9 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "data.txt.txt",
-				"folderPath": "inputdata",
-				"container": "tanujacon"
+				"fileName": "data.txt",
+				"folderPath": "output",
+				"container": "tanudemo"
 			}
 		}
 	},
